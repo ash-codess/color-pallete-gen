@@ -1,0 +1,11 @@
+- Set up Svelte project:
+    npx degit sveltejs/template color-palette-generator
+    cd color-palette-generator
+    npm install
+
+- Install dependencies
+    npm install styled-components axios
+
+- Run the development server:
+    npm run dev
+
